@@ -1,0 +1,67 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h1 {
+    padding-top: 20px;
+    font-size: 40px;
+}
+
+.input-box {
+    position: relative;
+    margin: auto;
+    text-align: center;
+    height: 40%;
+    background: linear-gradient(246.26deg, #2B75EC 0%, #2EC4DE 100%);
+}
+
+input {
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 97.5723px;
+    line-height: 24px;
+    background: transparent;
+    border: 0;
+    outline: none;
+    text-align: center;
+    color: #FFFFFF;  
+}
+
+.metreic-box {
+   
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #1A1921;
+    height: 60%;
+    background: bisque; 
+}
+
+.social-icons{
+    padding-top: 60px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.social-icons img {
+    margin: 30px auto;
+    text-align: center;
+    width: 30px;
+    margin: 0 12px;
+    box-shadow: 0 0 20px 0 #005aa7;
+    cursor: pointer;
+    border-radius: 50%;
+  
+}
